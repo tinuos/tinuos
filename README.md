@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinuos&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinuos&layout=demo&theme=tokyonight)
 
 <!---
 tinuos/tinuos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
